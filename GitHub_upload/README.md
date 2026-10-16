@@ -15,5 +15,3 @@ Source code for the delayed Wilson-Cowan model, synchronization-state classifica
 | Union of propagation trees and edge recruitment counts | `analysis/union_propagation_network.py` |
 | Configuration | `config/stimulation.json` |
 | Data-free demonstration | `examples/synthetic_demo.py` |
-
-The `stimulation/`, `analysis/`, configuration, and original propagation test files are copied from the authors' local V4 source without changing the algorithms. Documentation, the synthetic demonstration, and the synthetic integration test were added for this release. `SOURCE_MANIFEST.json` records file hashes for traceability.
